@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = markus.subsea@gmail.com
+	name = Markus Koenig
